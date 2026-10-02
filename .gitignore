@@ -1,0 +1,12 @@
+# Data and generated files
+data/
+output/
+*.parquet
+*.pcap
+*.joblib
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
